@@ -56,6 +56,7 @@ A leveling bot built with <b>discord.js v14</b>, focused on tracking member acti
     <img src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Namaiki Website" />
   </a>
 </div>
+
 <p align="center">
   <a href="https://top.gg/bot/1201260757258612817" target="_blank">
     <img src="https://top.gg/api/widget/servers/1201260757258612817.svg" alt="Namaiki Server Count" />
