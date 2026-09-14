@@ -28,18 +28,38 @@
   </a>
 </div>
 
-**Namaiki** is a Discord leveling and engagement bot built with **discord.js v14**, designed to track member activity and reward participation across a server.
+<h3 align="center">Namaiki — Discord Leveling & Engagement Bot</h3>
 
-- 🎨 **XP & Leveling** — Earns XP from messages (with anti-spam cooldowns) and voice channel time, shown on custom canvas-rendered rank/profile cards.
-- 🔥 **Streaks & Rewards** — Daily login streaks grant XP multipliers, with role-based rewards tied to level thresholds.
-- 🖼️ **Rich UI** — Built on Discord's newer Components V2 (`ContainerBuilder`) for a modern, interactive panel interface.
-- 🌍 **Personalized Cards** — Rank/level-up card backgrounds adapt to each user's own timezone.
-- 🛡️ **Admin Tools** — Configurable XP rates, cooldowns, multipliers, blacklists, and manual XP/level adjustment.
-- ⚙️ **Backend** — Async MongoDB architecture with a built-in branding/anti-tamper guard.
+<p align="center">
+A leveling bot built with <b>discord.js v14</b>, focused on tracking member activity and rewarding engagement with polished, canvas-rendered visuals.
+</p>
 
-In short: a full-featured leveling/engagement bot for Discord communities, with its own canvas-rendered card designs and timezone-aware visuals.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-Check it out → **[namaiki.xyz](https://namaiki.xyz/)**
+**✨ Core Features**
+- XP from messages & voice time
+- Daily login streaks with multipliers
+- Role-based level rewards
+- Custom canvas rank/profile cards
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Under the Hood**
+- Discord Components V2 UI
+- Timezone-aware card backgrounds
+- Admin tools (rates, cooldowns, blacklist)
+- Async MongoDB + branding guard
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+🔗 <b><a href="https://namaiki.xyz/">namaiki.xyz</a></b>
+</p>
 
 ---
 
