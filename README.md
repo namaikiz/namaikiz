@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://namaiki.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Namaiki Website" />
+  </a>
+</div>
+
 <h3 align="center">Namaiki — Discord Leveling & Engagement Bot</h3>
 
 <p align="center">
@@ -51,11 +57,18 @@ A leveling bot built with <b>discord.js v14</b>, focused on tracking member acti
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://namaiki.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-namaiki.xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Namaiki Website" />
+<p align="center">
+  <a href="https://top.gg/bot/1201260757258612817" target="_blank">
+    <img src="https://top.gg/api/widget/servers/1201260757258612817.svg" alt="Namaiki Server Count" />
   </a>
-</div>
+  <a href="https://top.gg/bot/1201260757258612817" target="_blank">
+    <img src="https://top.gg/api/widget/upvotes/1201260757258612817.svg" alt="Namaiki Upvotes" />
+  </a>
+</p>
+
+<p align="center">
+🔗 <b><a href="https://namaiki.xyz/">namaiki.xyz</a></b>
+</p>
 
 ---
 
