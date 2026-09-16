@@ -14,7 +14,7 @@
 
 ---
 
-### 🤖 My Bot
+### 🤖 My Discord APP
 
 <p align="center">
   <a href="https://namaiki.xyz/" target="_blank">
