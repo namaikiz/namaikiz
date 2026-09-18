@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://namaiki.xyz/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1429155042144817392/1548937482924466327/banner.webp?ex=6aa8dff1&is=6aa78e71&hm=01c53051e74058e506a4b8ba225311ff68ce26788a27f4168fe9073894d2d949&" alt="Namaiki Banner" width="100%"/>
+    <img src="https://cdn.discordapp.com/attachments/1492531455262457967/1550504383542726766/banner.webp?ex=6aae933c&is=6aad41bc&hm=a990580e2fc802f4551e8f6b612292a946f256c0675631416cb681955e4eaf33&" alt="Namaiki Banner" width="100%"/>
   </a>
 </p>
 
