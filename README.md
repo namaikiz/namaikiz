@@ -81,6 +81,6 @@ A leveling bot built with <b>discord.js v14</b>, focused on tracking member acti
 <br>
 <div align="center">
   <a href="https://discord.com/users/995913592253710356" target="_blank">
-    <img width="350" src="https://lanyard.cnrad.dev/api/406465220391731220" alt="First Account"/>
+    <img width="350" src="https://lanyard.cnrad.dev/api/995913592253710356" alt="First Account"/>
   </a>
 </div>
