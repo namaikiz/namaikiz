@@ -68,7 +68,7 @@ A leveling bot built with <b>discord.js v14</b>, focused on tracking member acti
 
 ---
 
-### 🛡 Let's Connect!
+### 🛡 Let's Connect!!
 
 <div align="center">
   <a href="https://instagram.com/akbaraprilioo" target="_blank">
